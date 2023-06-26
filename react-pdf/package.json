@@ -1,29 +1,16 @@
 {
-  "name": "login",
+  "name": "react-pdf",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@devexpress/dx-react-core": "^3.0.5",
-    "@emotion/react": "^11.10.4",
-    "@emotion/styled": "^11.10.4",
-    "@mui/icons-material": "^5.10.6",
-    "@mui/material": "^5.10.8",
-    "@mui/styled-engine-sc": "^5.10.6",
-    "@mui/x-data-grid": "^5.17.5",
-    "@mui/x-data-grid-generator": "^5.17.5",
+    "@react-pdf/renderer": "^3.1.9",
     "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "chart.js": "^3.9.1",
-    "firebase": "^9.10.0",
     "react": "^18.2.0",
-    "react-chartjs-2": "^4.3.1",
-    "react-data-grid": "^7.0.0-beta.19",
     "react-dom": "^18.2.0",
-    "react-infinite-scroll-component": "^6.1.0",
-    "react-lazy-load": "^4.0.1",
     "react-scripts": "5.0.1",
-    "react-table": "^7.8.0",
-    "styled-components": "^5.3.6",
+    "swiper": "^9.2.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -49,9 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@testing-library/react": "^13.4.0",
-    "react-router-dom": "^6.4.1"
   }
 }

@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" height="80" width="80" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+&#xa0;
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+<h1 align="center">Firebase Auth</h1>
 
-### `npm start`
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Kishan2029/firebase_authentication?color=56BEB8">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Kishan2029/firebase_authentication?color=56BEB8">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Kishan2029/firebase_authentication?color=56BEB8">
 
-### `npm test`
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/firebase_authentication?color=56BEB8" /> -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/firebase_authentication?color=56BEB8" /> -->
 
-### `npm run build`
+  <img alt="Github stars" src="https://img.shields.io/github/stars/Kishan2029/firebase_authentication?color=56BEB8" />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- Status -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- <h4 align="center">
+	🚧  Chatvista 🚀 Under construction...  🚧
+</h4>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<hr> -->
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## :dart: About
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This React app with Firebase auth (email/password or Google SSO) features data visualization tools (pie charts, doughnut charts, infinite tables) and boasts reusable components for seamless integration into other projects.
+## :rocket: Technologies
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The following tools were used in this project:
+- React.js
+- Firebase
+- Chart.js
+- react-table
+  
+## Deploy Link
+https://firebase-auth-app01.netlify.app/
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## :checkered_flag: Starting
 
-## Learn More
+```bash
+# Run Project
+$ npm i  # Install dependencies
+$ npm run start 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# The server will initialize in the <http://localhost:3000>
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+&#xa0;
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="#top">Back to top</a>
